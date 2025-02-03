@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tacos and cats and robotics.
 - 🌱 I’m currently learning stuff.
 - 💞️ I’m looking to collaborate on almost anything.
-- 📫 How to reach me: Here, or at Bobharper4u@Gmail.com
+- 📫 How to reach me: Here, or at Bobharper4u@Gmail.com , please put "from github" in the subject bar.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
