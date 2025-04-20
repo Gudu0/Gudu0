@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on almost anything.
 - 📫 How to reach me: Here, or at Bobharper4u@Gmail.com , please put "from github" in the subject bar.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: most of projects are not being worked on anymore.
 
 <!---
 Gudu0/Gudu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
